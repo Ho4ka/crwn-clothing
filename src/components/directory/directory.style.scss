@@ -1,0 +1,14 @@
+.directory-menu {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+
+  &:nth-child(-n+3) {
+    flex: 0 0 33.3333%;
+  }
+
+  &:nth-last-of-type(-n+2) {
+    flex: 0 0 100%;
+  }
+}
