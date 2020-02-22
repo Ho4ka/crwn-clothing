@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a66a4dd-de3d-4d55-9c57-b6d508fcf4bb" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/cart-item/cart-item.component.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/cart-item/cart-item.styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/cart/cart.selectors.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/cart-dropdown/cart-dropdown.component.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/cart-dropdown/cart-dropdown.component.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/cart-icon/cart-icon.component.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/cart-icon/cart-icon.component.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/cart-icon/cart-icon.styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/cart-icon/cart-icon.styles.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +63,8 @@
       <workItem from="1577527452013" duration="3000" />
       <workItem from="1577527460649" duration="213000" />
       <workItem from="1578239880299" duration="2470000" />
-      <workItem from="1579799233378" duration="15620000" />
+      <workItem from="1579799233378" duration="17418000" />
+      <workItem from="1582354253710" duration="2003000" />
     </task>
     <servers />
   </component>
@@ -77,18 +76,20 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="100" y="79" width="1240" height="719" key="DiffContextDialog" timestamp="1579985554108">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="100" y="79" width="1240" height="719" key="DiffContextDialog" timestamp="1580070072450">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="100" y="79" width="1240" height="719" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1579985554108" />
-    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog/0.23.1440.877@0.23.1440.877" timestamp="1579812383373" />
+    <state x="100" y="79" width="1240" height="719" key="DiffContextDialog/0.23.1440.877@0.23.1440.877" timestamp="1580070072450" />
     <state x="400" y="207" width="639" height="486" key="find.popup" timestamp="1580045625300">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
